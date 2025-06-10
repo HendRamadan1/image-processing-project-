@@ -1,7 +1,7 @@
 # DIP-Project (Digital Image Processing)
 
-This project demonstrates key concepts and tasks in Digital Image Processing using Python and OpenCV.  
-All required operations are implemented and integrated into a single GUI interface, with input and result images displayed using subplots.
+This project demonstrates key concepts and techniques in Digital Image Processing using Python and OpenCV.  
+All required tasks are implemented in a unified GUI interface, where each operation displays both input and result images using subplots.
 
 ---
 
@@ -15,15 +15,12 @@ All required operations are implemented and integrated into a single GUI interfa
 
 ### 2. **Color Image Operations**
 - [x] Change image lighting color
-  - [x] Change red
 - [x] Swapping image channels
-  - [x] Swap from R to G
 - [x] Eliminating color channels
-  - [x] Eliminate Red
 
 ### 3. **Image Histogram**
-- [x] Histogram Stretching (Gray Image)
-- [x] Histogram Equalization (Gray Image)
+- [x] Histogram Stretching (gray image)
+- [x] Histogram Equalization (gray image)
 
 ### 4. **Neighborhood Processing**
 #### ➤ Linear Filters
@@ -40,7 +37,7 @@ All required operations are implemented and integrated into a single GUI interfa
 #### ➤ Salt & Pepper Noise
 - [x] Average Filter
 - [x] Median Filter
-- [x] An Outlier Method
+- [x] Outlier Method
 
 #### ➤ Gaussian Noise
 - [x] Image Averaging
@@ -52,11 +49,11 @@ All required operations are implemented and integrated into a single GUI interfa
 - [x] Adaptive Thresholding
 
 ### 7. **Edge Detection**
-- [x] Sobel Detection
+- [x] Sobel Edge Detection
 
 ### 8. **Mathematical Morphology**
-- [x] Image Dilation
-- [x] Image Erosion
+- [x] Dilation
+- [x] Erosion
 
 ### 9. **Boundary Extraction**
 - [x] Internal Boundary
@@ -65,22 +62,33 @@ All required operations are implemented and integrated into a single GUI interfa
 
 ---
 
-## 💻 Tools Used
+## 💻 GUI Preview
+
+![GUI Screenshot](Screenshot%20(1482).png)
+
+---
+
+## 🧰 Technologies Used
 - Python
 - OpenCV
 - NumPy
-- Matplotlib (for subplot visualization)
+- Matplotlib
 - Tkinter (for GUI)
 
 ---
 
-## 📷 GUI Example
-> Screenshots of GUI and results can be added here...
+## 👥 Team Members
+- Hend Ramadan  
+- Menna Nour  
+- Malak Ahmed  
+- Mina Ibrahim  
+- Ahmed Khaled  
 
 ---
 
-## 👩‍💻 Author
-- Hend Ramadan  
-- [Your Department], [Your University]  
-- Final Year Project / Lab Assignment
+## 📌 Notes
+- All tasks were integrated into a single GUI tool.  
+- Each function displays original and processed images along with histograms.
+
+---
 
