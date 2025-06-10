@@ -64,7 +64,7 @@ All required tasks are implemented in a unified GUI interface, where each operat
 
 ## 💻 GUI Preview
 
-![GUI Screenshot](Screenshot%20(1482).png)
+![GUI Screenshot](C:\Users\DELL\Pictures\Screenshots\Screenshot%20(1482).png)
 
 ---
 
