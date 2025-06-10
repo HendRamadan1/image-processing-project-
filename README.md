@@ -63,6 +63,7 @@ The entire application was built using Python with libraries such as OpenCV, Num
 ### 6. **Image Segmentation**
 #### ➤ Thresholding
 - [x] Basic Global Thresholding
+- [x] Automatic Thresholding
 - [x] Adaptive Thresholding
 
 ### 7. **Edge Detection**
@@ -72,16 +73,13 @@ The entire application was built using Python with libraries such as OpenCV, Num
 - [x] Dilation
 - [x] Erosion
 
-### 9. **Boundary Extraction**
-- [x] Internal Boundary
-- [x] External Boundary
-- [x] Morphological Gradient
+
 
 ---
 
 ## 💻 GUI Preview
 
-![GUI Screenshot](C:\Users\DELL\Pictures\Screenshots\Screenshot%20(1482).png)
+![GUI Screenshot](Screenshot%20(1482).png)
 
 ---
 
