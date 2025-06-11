@@ -89,7 +89,7 @@ The entire application was built using Python with libraries such as OpenCV, Num
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org)  
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)  
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org)  
-[![Tkinter](https://img.shields.io/badge/Tkinter-FFB000?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/tkinter.html)
+[![Tkinter](https://img.shields.io/badge/Tkinter-FFB000?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/tkinter.html)  
 [![Pillow](https://img.shields.io/badge/Pillow-ff6600?style=for-the-badge&logo=pillow&logoColor=white)](https://pillow.readthedocs.io/en/stable/index.html#)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
