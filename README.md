@@ -98,8 +98,8 @@ The entire application was built using Python with libraries such as OpenCV, Num
 ---
 
 ## 👥 Team Members
+- Hend Ramadan   
 - Ahmed Khaled  
-- Hend Ramadan  
 - Menna Nour  
 - Malak Ahmed  
 - Mina Ibrahim  
